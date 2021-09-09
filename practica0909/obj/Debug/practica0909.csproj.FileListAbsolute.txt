@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\practica0909\practica0909\bin\Debug\practica0909.exe.config
+C:\Users\PC\source\repos\practica0909\practica0909\bin\Debug\practica0909.exe
+C:\Users\PC\source\repos\practica0909\practica0909\bin\Debug\practica0909.pdb
+C:\Users\PC\source\repos\practica0909\practica0909\obj\Debug\practica0909.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\practica0909\practica0909\obj\Debug\practica0909.Form1.resources
+C:\Users\PC\source\repos\practica0909\practica0909\obj\Debug\practica0909.Properties.Resources.resources
+C:\Users\PC\source\repos\practica0909\practica0909\obj\Debug\practica0909.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\practica0909\practica0909\obj\Debug\practica0909.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\practica0909\practica0909\obj\Debug\practica0909.exe
+C:\Users\PC\source\repos\practica0909\practica0909\obj\Debug\practica0909.pdb
